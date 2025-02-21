@@ -6,7 +6,7 @@ class12 all subjects notes<!DOCTYPE html>
     <meta name="description" content="कक्षा 12 गणित, भौतिकी, रसायन विज्ञान, जीवविज्ञान, हिंदी और अंग्रेजी के लिए फ्री ऑनलाइन नोट्स डाउनलोड करें।">
     <meta name="keywords" content="Class 12 Notes, गणित नोट्स, भौतिकी नोट्स, रसायन विज्ञान नोट्स, जीवविज्ञान नोट्स, हिंदी नोट्स, अंग्रेजी नोट्स, Free PDF Notes">
     <meta name="author" content="Shiksha Gyaan">
-    <title>शिक्षा ज्ञान - कक्षा 12 के लिए सर्वश्रेष्ठ ऑनलाइन नोट्स</title>
+    <title>siksha gyan</title>
     <style>
         body {
             font-family: Arial, sans-serif;
