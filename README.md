@@ -1,4 +1,4 @@
-class12-notes<!DOCTYPE html>
+class12 all subjects notes<!DOCTYPE html>
 <html lang="hi">
 <head>
     <meta charset="UTF-8">
