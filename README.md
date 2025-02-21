@@ -1,4 +1,4 @@
-# Class12-_-notes<!DOCTYPE html>
+class12-notes<!DOCTYPE html>
 <html lang="hi">
 <head>
     <meta charset="UTF-8">
